@@ -1,0 +1,22 @@
+.flexRow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  /* width: 25%; */
+  margin-bottom: 20px;
+  padding: 50px;
+  font-weight: bold;
+}
+
+.flexRowReader {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 25%;
+  margin: 20px;
+  padding: 0 30px;
+  font-weight: bold;
+}
